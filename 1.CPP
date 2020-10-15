@@ -13,7 +13,7 @@ class marks : public student
    void marksheet ()
    {
 
-      cout<<"enter maarks of 5 subjects";
+      cout<<"enter maarks of 5 subjects"
      cin>>marks1>>marks2>>marks3>>marks4>>marks5;
    }
 };
